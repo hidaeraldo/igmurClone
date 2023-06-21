@@ -1,0 +1,11 @@
+.post-wrapper {
+    img {
+        width: 100%;
+        object-fit: contain;
+        aspect-ratio: 1;
+    }
+    .post {
+        &-title {
+        }
+    }
+}
